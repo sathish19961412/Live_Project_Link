@@ -17,6 +17,5 @@ With live:
 15)https://www.rvmachinetools.in/
 
 server upload projects:
-1)sathish.lovestoblog.com
-2)sathishtproject.epizy.com
-3)dynamic.freecluster.eu
+1)http://sathish.lovestoblog.com/
+2)
