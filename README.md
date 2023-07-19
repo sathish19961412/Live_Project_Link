@@ -1,4 +1,5 @@
-With live:
+Static Site With live:
+
 1) https://www.kannantoolsanddies.com/
 2) https://www.technocap.net
 3) https://www.techdigitalcorp.com-Usa
@@ -8,25 +9,33 @@ With live:
 7) http://drthirueyeclinic.com/
 8) https://www.sheltronics.co.in/
 9) https://truweigh.in/
-10 )https://dreamstarz.in/ 
+10 )http://avinashimarathon.com/
 11) https://svve.in/
 12) http://www.beegoindustries.com/
 13) https://ayyai.in/
 14) http://www.sortierfeedingsystems.com/
 15) limratfe.in
-16) http://avinashimarathon.com/
+16) 
+Dynamic Site With live:
+
+1.https://dreamstarz.in/
+2.https://www.rasikitchenequipments.com/index.php
+
+Dynamic Site Without Live
+1.https://dreamstarz.in/demo/gomakemytrip/
 
 server upload projects:
+1) sathish.lovestoblog.com
+2. https://react-reglogin.vercel.app/
+3) https://reacthooks-psi.vercel.app/
+4) https://sathishprofile.vercel.app/
+5) https://landingsite-nine.vercel.app/
+6) https://reactjs-image-upload-with-axios.vercel.app/
+7) https://react-concept.vercel.app/
+8) https://angular-eight-ecru.vercel.app/
+9) https://angulartask-lac.vercel.app/
+10) https://vue-js-ruby.vercel.app/
+11) https://vue-portfolio-sandy.vercel.app/
+12) https://basicsathishportfolio.netlify.app/
 
-1)sathish.lovestoblog.com
-2)https://react-reglogin.vercel.app/
-3)https://reacthooks-psi.vercel.app/
-4)https://sathishprofile.vercel.app/
-5)https://landingsite-nine.vercel.app/
-6)https://reactjs-image-upload-with-axios.vercel.app/
-7)https://react-concept.vercel.app/
-8)https://angular-eight-ecru.vercel.app/
-9)https://angulartask-lac.vercel.app/
-10)https://vue-js-ruby.vercel.app/
-11)https://vue-portfolio-sandy.vercel.app/
-12)https://basicsathishportfolio.netlify.app/
+
