@@ -15,7 +15,7 @@ Static Site With live:
 13) https://ayyai.in/
 14) http://www.sortierfeedingsystems.com/
 15) limratfe.in
-16) 
+    
 Dynamic Site With live:
 
 1.https://dreamstarz.in/
@@ -26,7 +26,7 @@ Dynamic Site Without Live
 
 server upload projects:
 1) sathish.lovestoblog.com
-2. https://react-reglogin.vercel.app/
+2.) https://react-reg.vercel.app/
 3) https://reacthooks-psi.vercel.app/
 4) https://sathishprofile.vercel.app/
 5) https://landingsite-nine.vercel.app/
