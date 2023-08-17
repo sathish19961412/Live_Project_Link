@@ -1,4 +1,4 @@
-Static Site With live:
+With Live:
 
 1) https://www.kannantoolsanddies.com/
 2) https://www.technocap.net
@@ -9,24 +9,22 @@ Static Site With live:
 7) http://drthirueyeclinic.com/
 8) https://www.sheltronics.co.in/
 9) https://truweigh.in/
-10 )http://avinashimarathon.com/
-11) https://svve.in/
-12) http://www.beegoindustries.com/
-13) https://ayyai.in/
-14) http://www.sortierfeedingsystems.com/
-15) limratfe.in
-    
-Dynamic Site With live:
+10) https://svve.in/
+11) http://www.beegoindustries.com/
+12) https://ayyai.in/
+13) http://www.sortierfeedingsystems.com/
+14) limratfe.in
+15) http://avinashimarathon.com/
+16) https://agriindiamart.com/
 
-1.https://dreamstarz.in/
-2.https://www.rasikitchenequipments.com/index.php
+Dynamic Site:
+1.https://dreamstarz.in/ 
+2.https://rasikitchenequipments.com/
+3.https://gomakeyourtrips.com/
 
-Dynamic Site Without Live
-1.https://dreamstarz.in/demo/gomakemytrip/
-
-server upload projects:
+Server Upload Projects:
 1) sathish.lovestoblog.com
-2.) https://react-reg.vercel.app/
+2) https://react-reglogin.vercel.app/
 3) https://reacthooks-psi.vercel.app/
 4) https://sathishprofile.vercel.app/
 5) https://landingsite-nine.vercel.app/
@@ -36,6 +34,4 @@ server upload projects:
 9) https://angulartask-lac.vercel.app/
 10) https://vue-js-ruby.vercel.app/
 11) https://vue-portfolio-sandy.vercel.app/
-12) https://basicsathishportfolio.netlify.app/
-
-
+12) https://simple-nextjsportfolio.vercel.app/
