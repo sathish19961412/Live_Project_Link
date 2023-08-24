@@ -24,7 +24,7 @@ Dynamic Site:
 
 Server Upload Projects:
 1) sathish.lovestoblog.com
-2) https://react-reglogin.vercel.app/
+2) https://react-reg.vercel.app/
 3) https://reacthooks-psi.vercel.app/
 4) https://sathishprofile.vercel.app/
 5) https://landingsite-nine.vercel.app/
