@@ -12,12 +12,11 @@ With Live:
 10) https://svve.in/
 11) http://www.beegoindustries.com/
 12) https://ayyai.in/
-13)http://www.sortierfeedingsystems.com/
+13) http://www.sortierfeedingsystems.com/
 14) limratfe.in
-15) http://avinashimarathon.com/
-16) https://agriindiamart.com/
-17) https://sjsvmatric.com/
-18) https://smartenggindia.com/
+15) https://agriindiamart.com/
+16) https://sjsvmatric.com/
+17) https://smartenggindia.com/
 
 Dynamic Site:
 1. https://dreamstarz.in/ 
