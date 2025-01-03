@@ -1,7 +1,7 @@
 With Live:
 
 1) https://www.kannantoolsanddies.com/
-2) https://www.technocap.net -X
+2) https://www.technocap.net 
 3) https://www.techdigitalcorp.com
 4) https://www.rvmachinetools.in/
 5) https://www.arunrega.com
