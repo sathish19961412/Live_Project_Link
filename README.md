@@ -12,21 +12,20 @@ With Live:
 10) https://svve.in/
 11) http://www.beegoindustries.com/
 12) https://ecopiens.com/
-13)http://www.sortierfeedingsystems.com/
-14) limratfe.in
+13) http://www.sortierfeedingsystems.com/
+14) https://limratfe.in/
 15) https://www.promechindustries.com/
 16) https://agriindiamart.com/
 17) https://sjsvmatric.com/
 18) https://smartenggindia.com/
-19) https://mediawonderz.com/demo/sst/
-20) https://mediawonderz.com/demo/electromac/index.php
-21) https://mediawonderz.com/demo/kamaraj/
-
-Dynamic Site:
-1. https://dreamstarz.in/ 
-2. https://rasikitchenequipments.com/
-3. https://atelierr289.com
-4. https://mediawonderz.com/demo/dreamstarz/
+19) https://kamarajschool.com/
+20) https://greenvillagerealtors.com/
+21) https://mediawonderz.com/demo/sst/
+22) https://mediawonderz.com/demo/electromac/index.php
+23) https://atelierr289.com
+24) https://rasikitchenequipments.com/
+25) https://dreamstarz.in/ 
+26) https://mediawonderz.com/demo/dreamstarz/
 
 Server Upload Projects:
 1)  https://react-reg.vercel.app/
