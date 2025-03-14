@@ -1,6 +1,6 @@
 With Live:
 
-1) https://www.kannantoolsanddies.com/
+1) https://www.kannantoolsanddies.com/admin
 2) https://www.techdigitalcorp.com
 3) https://www.rvmachinetools.in/
 4) https://www.arunrega.com
@@ -14,12 +14,13 @@ With Live:
 12) https://limratfe.in/
 13) https://www.promechindustries.com/
 14) https://sjsvmatric.com/
-15) https://kamarajschool.com/
-16) https://greenvillagerealtors.com/
-17) https://atelierr289.com
-18) https://rasikitchenequipments.com/
-19) https://mediawonderz.com/demo/sst/
-20) https://mediawonderz.com/demo/dreamstarz/ (https://dreamstarz.in/)
+15) https://kamarajschool.com/admin
+16) https://greenvillagerealtors.com/admin
+17) https://atelierr289.com/admin
+18) https://rasikitchenequipments.com/admin
+19) https://landandspaces.com/admin
+20) https://mediawonderz.com/demo/sst/
+21) https://mediawonderz.com/demo/dreamstarz/admin.php (https://dreamstarz.in/)
 
 Server Upload Projects:
 1)  https://react-reg.vercel.app/
