@@ -19,8 +19,7 @@ With Live:
 17) https://atelierr289.com
 18) https://rasikitchenequipments.com/
 19) https://mediawonderz.com/demo/sst/
-20) https://mediawonderz.com/demo/electromac/index.php
-21) https://mediawonderz.com/demo/dreamstarz/ (https://dreamstarz.in/)
+20) https://mediawonderz.com/demo/dreamstarz/ (https://dreamstarz.in/)
 
 Server Upload Projects:
 1)  https://react-reg.vercel.app/
