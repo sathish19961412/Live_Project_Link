@@ -4,11 +4,11 @@ With Live:
 2) https://www.techdigitalcorp.com
 3) https://www.rvmachinetools.in/
 4) https://www.arunrega.com
-5) http://bharathiindustries.in/
+5) https://sangaminteriors.com/admin/
 6) http://drthirueyeclinic.com/
 7) https://www.sheltronics.co.in/
 8) https://truweigh.in/
-9) http://www.beegoindustries.com/
+9) https://pranavautomation.in/
 10) https://ecopiens.com/
 11) http://www.sortierfeedingsystems.com/
 12) https://limratfe.in/
